@@ -1799,7 +1799,6 @@
       }
     },
     "mobivate": {
-      "sha": "39857c32742803d7e591c3a1ef66a2b50a6b9cd6",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
