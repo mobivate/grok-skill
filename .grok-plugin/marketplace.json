@@ -492,8 +492,9 @@
       "description": "Official Mobivate Bulk SMS integration. Send immediatelly or schedule individual or group/bulk SMS; manage contacts; review message history.",
       "category": "productivity",
       "source": {
-        "type": "local",
-        "path": "./external_plugins/mobivate"
+	    "source": "url",
+	    "url": "https://github.com/mobivate/grok-skill.git",
+	    "sha": "eb2387df117e725c36fe460e3e70e12c28eae8a8"
       },
       "homepage": "https://mobivate.com",
       "keywords": ["mobivate","sms","bulksms","bulk sms","cpaas","marketing","broadcast","message","messaging"],
