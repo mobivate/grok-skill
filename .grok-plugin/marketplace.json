@@ -494,7 +494,7 @@
       "source": {
 "source": "url",
 "url": "https://github.com/mobivate/grok-skill.git",
-"sha": "45561141ad8f7da4bf6120c8e88f378559a2d30b"
+"sha": "a5960aca054f6745b18fe7da4dab9b743341bada"
       },
       "homepage": "https://mobivate.com",
       "keywords": ["mobivate","sms","bulksms","bulk sms","cpaas","marketing","broadcast","message","messaging"],
