@@ -1075,8 +1075,8 @@
       }
     },
     "sentry": {
-      "sha": "2e89d16d6b8a973503af4bc10859767fa8c9de7e",
-      "version": "1.4.5",
+      "sha": "3b4ec482aa94a964b210d004c817bdce15cda8f7",
+      "version": "1.4.6",
       "components": {
         "mcpServers": [
           {
@@ -1139,8 +1139,8 @@
       }
     },
     "stripe": {
-      "sha": "326ea8b521de0ce42e69d43451ef47a6e87206ef",
-      "version": "0.9.26",
+      "sha": "8a8818e856376003701bb0d4a569c26bacac1d0e",
+      "version": "0.9.27",
       "components": {
         "agents": [
           {

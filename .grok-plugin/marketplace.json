@@ -25,7 +25,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/getsentry/plugin-grok.git",
-        "sha": "2e89d16d6b8a973503af4bc10859767fa8c9de7e"
+        "sha": "3b4ec482aa94a964b210d004c817bdce15cda8f7"
       },
       "homepage": "https://github.com/getsentry/sentry-for-ai",
       "keywords": ["sentry"],
@@ -246,7 +246,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "sha": "326ea8b521de0ce42e69d43451ef47a6e87206ef",
+        "sha": "8a8818e856376003701bb0d4a569c26bacac1d0e",
         "path": "providers/grok/plugin"
       },
       "homepage": "https://github.com/stripe/ai",
