@@ -546,6 +546,23 @@
         ]
       }
     },
+    "mobivate": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "mobivate",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "mobivate",
+            "description": "Send SMS message(s) via Mobivate."
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "4f2b13e25c5815b3f080ca0d983e828d96561a0f",
       "version": "0.0.196",
@@ -1802,43 +1819,6 @@
           {
             "name": "wix-vibe-headless",
             "description": "Connect an existing front end to a live Wix site using client-only REST and its public WIX_CLIENT_ID, without an SDK or…"
-          }
-        ]
-      }
-    },
-    "mobivate": {
-      "version": "1.0.0",
-      "components": {
-        "mcpServers": [
-          {
-            "name": "mobivate-mcp",
-            "description": "http"
-          }
-        ],
-        "skills": [
-          {
-            "name": "authenticate",
-            "description": "Configure your Mobivate API key"
-          },
-          {
-            "name": "sms",
-            "description": "Send a single SMS message (single recipient)"
-          },
-          {
-            "name": "campaign",
-            "description": "Send a Batch SMS campaign (multiple recipients)"
-          },
-          {
-            "name": "history",
-            "description": "Get message logs from previous campaigns"
-          },
-          {
-            "name": "schedule-sms",
-            "description": "Schedule a single SMS message for later send"
-          },
-          {
-            "name": "schedule-campaign",
-            "description": "Schedule a Batch SMS campaign for later send"
           }
         ]
       }
